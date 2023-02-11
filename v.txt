@@ -1,0 +1,32 @@
+{
+    "urls": [
+        {
+          "url":"https://codeberg.org/wolfceo/a/raw/branch/master/1.json",
+          "name":"自用1"
+        },
+		{
+          "url":"https://codeberg.org/wolfceo/a/raw/branch/master/2.json",
+          "name":"自用2"
+        },
+        {
+          "url":"https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json",
+          "name":"zhang"
+        },
+        {
+          "url":"https://raw.iqiq.io/gaotianliuyun/gao/master/9918.json",
+          "name":"gao"
+        },
+        {
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/h",
+          "name":"2ha"
+        },
+        {
+          "url":"https://agit.ai/wuheng42/cr/raw/branch/master/20230126/cr.json",
+          "name":"wuheng"
+        },
+        {
+          "url":"https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json",
+          "name":"月光"
+        }
+     ]
+}
