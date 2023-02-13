@@ -1,0 +1,16 @@
+{
+"站名":"水果派",
+"主页url":"https://www.612023.xyz",
+"直接播放":"1",
+"数组":"<div class=\"video-item\">&&</div></a></div>",
+"图片":"src=\"&&\"",
+"标题":"<p>&&</p>",
+"链接":"href=\"&&\"",
+"链接前缀":"https://www.612023.xyz",
+"副标题":"</p><p>&&</p>",
+"主演":"<h1 class=\"title\"&&</h1>",
+"免嗅":"0",
+"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+"分类":"水果派$17",
+"分类url":"https://www.612023.xyz/index.php/art/type/id/{cateId}/page/{catePg}.html"
+}
