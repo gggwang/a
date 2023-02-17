@@ -9,7 +9,7 @@
           "name":"自用2"
         },
         {
-          "url":"https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json",
+          "url":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/18.json",
           "name":"zhang"
         },
         {
