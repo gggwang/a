@@ -1,6 +1,10 @@
 {
     "urls": [
         {
+          "url":"clan://localhost/TVBox/0.json",
+          "name":"本地"
+        },
+		{
           "url":"https://codeberg.org/wolfceo/a/raw/branch/master/1.json",
           "name":"自用1"
         },
