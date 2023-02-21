@@ -1,5 +1,5 @@
 {
-"spider":"./JAR/Yoursmile2.jar",
+"spider":"./JAR/Yoursmile.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/18TV.txt"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites":[
