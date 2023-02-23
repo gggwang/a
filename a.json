@@ -29,7 +29,7 @@
 {"key":"csp_Smdyy","name": "神马┃SP","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Bd","name":"哔嘀┃SP","type":3,"api":"csp_Bdys01","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVBox/json/nmys.json"},
-{"key":"csp_Ysgc","name":"工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
+{"key":"csp_Ysgc","name":"工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
 {"key":"csp_SP360","name":"360┃SP","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"teng","name":"腾腾┃SP","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,"changeable":0},
 {"key":"ai","name":"爱爱┃SP","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
