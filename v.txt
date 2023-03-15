@@ -9,20 +9,20 @@
           "name":"自用1"
         },
         {
-          "url":"https://raw.iqiq.io/mugenjie/TVBOXZY/main/18.json",
-          "name":"zhang"
-        },
-        {
           "url":"https://raw.iqiq.io/gaotianliuyun/gao/master/9918.json",
           "name":"gao"
         },
         {
-          "url":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/h",
+          "url":"https://tv.5ye.cc/h/h.json",
           "name":"2ha"
         },
         {
-          "url":"https://agit.ai/wuheng42/cr/raw/branch/master/20230126/cr.json",
-          "name":"wuheng"
+          "url":"https://raw.iqiq.io/mugenjie/TVBOXZY/main/18.json",
+          "name":"zhang"
+        },
+        {
+          "url":"https://agit.ai/fenwe/TVBox/src/branch/master/adult.json",
+          "name":"fenwe"
         }
      ]
 }
