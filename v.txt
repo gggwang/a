@@ -9,7 +9,7 @@
           "name":"自用1"
         },
         {
-          "url":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/18.json",
+          "url":"https://raw.iqiq.io/mugenjie/TVBOXZY/main/18.json",
           "name":"zhang"
         },
         {
