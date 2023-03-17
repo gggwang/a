@@ -17,10 +17,6 @@
           "name":"2ha"
         },
         {
-          "url":"https://raw.iqiq.io/mugenjie/TVBOXZY/main/18.json",
-          "name":"zhang"
-        },
-        {
           "url":"https://agit.ai/fenwe/TVBox/src/branch/master/adult.json",
           "name":"fenwe"
         }
