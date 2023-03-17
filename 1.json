@@ -45,7 +45,7 @@
 {"key":"csp_xBPQ_色花堂","name":"色花堂","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/色花堂.json"},
 {"key":"csp_xBPQ_GAOAA","name":"GAOAA","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./xBPQ/GAOAA.json"},
-{"key":"csp_Vivo","name":"Vivo","type":3,"api":"csp_Vivo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/vivo.jar"}
+{"key":"csp_Vivo","name":"Vivo","type":3,"api":"csp_Vivo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/vivo.jar"},
 {"key":"drpy_js_猫了个咪","name":"猫了个咪[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/猫了个咪.js"},
 //{"key":"drpy_js_吸瓜","name":"吸瓜[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/吸瓜.js"},
 {"key":"drpy_js_黄瓜TV","name":"黄瓜TV[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/黄瓜TV.js"},
