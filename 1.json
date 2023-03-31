@@ -5,9 +5,7 @@
 "sites":[
 {"key":"csp_hsck","name":"黄仓库〔SP〕","api":"csp_Hsck","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/","jar":"./JAR/18.jar"},
 {"key":"csp_xBPQ_爱大学","name":"爱大学","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/爱大学.json"},
-{"key":"csp_xBPQ_爱大学1","name":"爱大学免","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/爱大学1.json"},
-{"key":"csp_xBPQ_GAOAA1","name":"GAOAA免","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./xBPQ/GAOAA1.json"},
+{"key":"csp_xBPQ_GAOAA","name":"GAOAA","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/GAOAA.json"},
 {"key":"csp_xBPQ_左临右射","name":"左临右射","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/左临右射.json"},
 {"key":"csp_xBPQ_掏爱撸","name":"掏爱撸","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/掏爱撸.json"},
 //{"key":"csp_xBPQ_天天综合","name":"天天综合","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/天天综合.json"},
@@ -43,7 +41,6 @@
 {"key":"csp_xBPQ_性欲轮回[分类]","name":"性欲轮回[分类]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/性欲轮回[分类].json"},
 {"key":"csp_xBPQ_右手影院","name":"右手影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/右手影院.json"},
 {"key":"csp_xBPQ_色花堂","name":"色花堂","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/色花堂.json"},
-{"key":"csp_xBPQ_GAOAA","name":"GAOAA","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/GAOAA.json"},
 {"key":"drpy_js_猫了个咪","name":"猫了个咪(js)","type":3,"api":"./JS/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./JS/js/猫了个咪.js"},
 {"key":"drpy_js_黄瓜TV","name":"黄瓜TV(js)","type":3,"api":"./JS/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./JS/js/黄瓜TV.js"},
 {"key":"drpy_js_banan","name":"banan(js)","type":3,"api":"./JS/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./JS/js/banan.js"},
