@@ -1,0 +1,22 @@
+{
+"站名":"尤物",
+"主页url":"https://www.yw07.buzz",
+"直接播放":"1",
+//"数组":"<div class=\"stui-vodlist__box\">&&<span",
+"图片":"src=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+"链接前缀":"https://www.yw07.buzz",
+//"副标题":"<span color=\"metadata-view\">&&</span>",
+"简介":"<p>&&</p>",
+"搜索模式":"1",
+"搜索url":"https://www.yw07.buzz/index.php/vod/search/page/{pg}/wd/{wd}.html",
+"搜索图片":"src=\"&&\"",
+"搜索标题":"title=\"&&\"",
+"搜索链接":"href=\"&&\"",
+"搜索链接前缀":"https://www.yw07.buzz",
+"免嗅":"1",
+"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+"分类":"精品$21#国产$1#欧美$2#无码$3#制服$20#女优$23",
+"分类url":"https://www.yw07.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+}
