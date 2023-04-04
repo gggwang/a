@@ -1,6 +1,6 @@
 {
 "站名":"GAOAA",
-"主页url":"https://74gaoaa.com/",
+"主页url":"https://74gaoaa.com",
 "直接播放":"1",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
@@ -11,7 +11,6 @@
 "搜索url":"/gaosearch/{wd}-/page/{pg}/",
 "搜索模式":"1",
 "搜索副标题":"<div class=\"img-tag\">&&</div>",
-"搜索链接前缀":"https://74gaoaa.com",
 "搜索链接后缀":"-1-1.html",
 "搜索后缀":"/gaoplay/",
 "播放数组":"class=\"item line\">&&</div>",

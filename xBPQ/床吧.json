@@ -1,0 +1,23 @@
+{
+"站名":"床吧",
+"主页url":"https://chuangba3.buzz",
+//发布 chuangb6.xyz
+"直接播放":"1",
+//"数组": "class=\"video\">&&</div>",
+"图片": "src=\"&&\"",
+"标题": "title=\"&&\"",
+"链接":"href=\"/index.php/vod/detail&&.html\"",
+"链接前缀":"https://chuangba3.buzz/index.php/vod/play",
+"链接后缀":"/sid/1/nid/1.html",
+"简介":"<p>&&</p>",
+"搜索模式":"1",
+"搜索url":"/index.php/vod/search/page/{pg}/wd/{wd}.html",
+"搜索图片": "src=\"&&\"",
+"搜索标题": "title=\"&&\"",
+"搜索链接":"href=\"/index.php/vod/detail&&.html\"",
+"搜索链接前缀":"https://chuangba3.buzz/index.php/vod/play",
+"搜索链接后缀":"/sid/1/nid/1.html",
+"免嗅":"1",
+"分类":"国产精品$50#无码$2#字幕$3#主播$4#动漫$5#人妻$42#重口味$43#伦理$44#精品亚洲$53#有码$47#欧美$48#91大神$51#AV解说$56",
+"分类url":"https://chuangba3.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+}

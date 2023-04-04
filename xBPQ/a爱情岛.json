@@ -1,22 +1,21 @@
 {
 "站名":"爱情岛",
 "主页url":"https://vip.aqdz55.com",
+//发布页 http://www.aqd2021.net
 "直接播放":"1",
 //"数组":"<div class=\"video-item\">&&</div></a></div>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
-"链接前缀":"https://vip.aqdz55.com",
 "副标题":"<span color=\"metadata-view\">&&</span>",
 "简介":"<p>&&</p>",
 "搜索模式":"1",
-"搜索url":"https://vip.aqdz55.com/videos/search?key={wd}&page={pg}",
+"搜索url":"/videos/search?key={wd}&page={pg}",
 "搜索图片":"data-original=\"&&\"",
 "搜索标题":"title=\"&&\"",
 "搜索链接":"href=\"&&\"",
-"搜索链接前缀":"https://vip.aqdz55.com",
 "免嗅":"0",
-"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+"嗅探词":".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#?item/video#is_play_url=1#play/?#qianpailive",
 "分类":"无码$uncensored#自拍$zipai#中文字幕$caption#美腿$beauty-leg#丝袜$stockings#恋足$foot-love#女优$avlady#美乳$beauty-breast#情趣內衣$sexy-ingerie#",
 "分类url":"https://vip.aqdz55.com/videos/tag/{cateId}/{catePg}"
 }
