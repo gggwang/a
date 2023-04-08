@@ -7,7 +7,7 @@
 "链接":"href=\"&&\"",
 "简介":"<p>&&</p>",
 "搜索模式":"1",
-"搜索url":"/search?keyword={wd}&pid=0&page={pg}",
+"搜索url":"https://lyzj.xyz/search?keyword={wd}&pid=0&page={pg}",
 "搜索图片":"src=\"&&\"",
 "搜索标题":"title=\"&&\"",
 "搜索链接":"href=\"&&\"",
