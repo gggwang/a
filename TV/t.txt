@@ -1,6 +1,6 @@
 测试,#genre#
-155a,https://vip1.155bf.com/20221113/wjixFdSs/index.m3u8
-155b,https://vip1.155bf.com/20220828/2Kk9ZoyE/index.m3u8
+155一,https://vip1.155bf.com/20221113/wjixFdSs/index.m3u8
+155二,https://vip1.155bf.com/20220828/2Kk9ZoyE/index.m3u8
 伊人,https://cdn.yrplay2.com/20230405/fLFMZrSs/index.m3u8
 伊人2,https://cdn.yrplay2.com/20230406/4mFVK41P/index.m3u8
 森林,https://vip2.slbfsl.com/20230403/bFKHAwU5/index.m3u8
@@ -9,3 +9,5 @@
 丝袜2,https://siwazywcdn2.com:5278/zhongwenzimu/76uqEKSw/index.m3u8
 麻豆,https://t21.cdn2020.com/video/m3u8/2023/04/06/6392d1e7/index.m3u8
 麻豆2,https://t21.cdn2020.com/video/m3u8/2023/04/06/6fc3e1ef/index.m3u8
+奥斯卡,https://askzybf.com/20230417/OQ74Tjsm/index.m3u8
+奥斯卡2,https://askzybf.com/20230417/NRf7LSai/index.m3u8
