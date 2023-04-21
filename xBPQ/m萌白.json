@@ -1,0 +1,18 @@
+{
+"站名":"萌白",
+"主页url":"https://moebai10.lol",
+// 发布 moebai.xyz
+"直接播放":"1",
+"图片":"src=\"&&\"",
+"标题":"<p class=\"title\">&&</p>",
+"链接":"href=\"&&\"",
+"简介":"<p>&&</p>",
+"搜索模式":"1",
+"搜索url":"/index.php/vod/search/page/{pg}/wd/{wd}.html",
+"搜索图片":"src=\"&&\"",
+"搜索标题":"<p class=\"title\">&&</p>",
+"搜索链接":"href=\"&&\"",
+"免嗅":"1",
+"分类":"国产$1#日韩$2#欧美$3#动漫$4#中字$5",
+"分类url":"https://moebai10.lol/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+}
