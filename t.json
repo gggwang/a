@@ -5,13 +5,8 @@
 "sites":[
 {"key":"js豆瓣","name":"🅱豆瓣┃首页","type":3,"api":"clan://TVBox/JS/lib/drpy2.min.js","ext":"clan://TVBox/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key":"直播t","name":"📡电视┃直播t","type":3,"playerType":1,"api":"clan://TVBox/JS/js/直播转点播.js","ext":"水果$clan://TVBox/TV/sg.txt#测试1$clan://TVBox/TV/t.txt&&&https://api.caonm.net/api/bhs/h.php"},
-{"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},
-{"key":"py_maa1808","name":"Maa1808","type":3,"api":"py_Maa1808","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/miaoyiS/tvBox/master/video/py_maa1808.py"},
+{"key":"csp_xBPQ_lu99","name":"lu99","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/xBPQ/lu99.json"},
 {"key":"drpy_js_madou","name":"麻豆(js)","type":3,"api":"clan://TVBox/JS/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"clan://TVBox/JS/js/madou.js"},
-{"key":"drpy_js_aiwu","name":"爱污(js)","type":3,"api":"clan://TVBox/JS/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"clan://TVBox/JS/js/aiwu.js"},
-{"key":"drpy_js_aiwuf","name":"爱污筛选(js)","type":3,"api":"clan://TVBox/JS/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"clan://TVBox/JS/js/aiwu-f.js"},
-{"key":"drpy_js_taoai","name":"掏爱(js)","type":3,"api":"clan://TVBox/JS/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"clan://TVBox/JS/js/taoai.js"},
-{"key":"奶香香","name":"奶香香","type":1,"api":"https://naixxzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"clan://TVBox/json/tok.txt"}
 ],
 

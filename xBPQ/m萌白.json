@@ -6,7 +6,7 @@
 "图片":"src=\"&&\"",
 "标题":"<p class=\"title\">&&</p>",
 "链接":"href=\"&&\"",
-"简介":"<p>&&</p>",
+"简介":"player_aaaa&&</script>",
 "搜索模式":"1",
 "搜索url":"/index.php/vod/search/page/{pg}/wd/{wd}.html",
 "搜索图片":"src=\"&&\"",
