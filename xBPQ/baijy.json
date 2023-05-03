@@ -1,0 +1,17 @@
+{
+"站名":"caocao",
+"主页url":"https://www.baijy8.top",
+"直接播放":"1",
+"链接":"href=\"/index.php/vod/detail&&.html\"",
+"链接前缀":"https://www.baijy8.top/index.php/vod/play",
+"链接后缀":"/sid/1/nid/1.html",
+"简介":"player_aaaa&&</script>",
+"搜索模式":"1",
+"搜索url":"/index.php/vod/search/page/{pg}/wd/{wd}.html",
+"搜索链接":"href=\"/index.php/vod/detail&&.html\"",
+"搜索链接前缀":"https://www.baijy8.top/index.php/vod/play",
+"搜索链接后缀":"/sid/1/nid/1.html",
+"免嗅":"1",
+"分类":"麻豆$34#精东$38#天美$39#兔子$40#星空$41#蜜桃$42#果冻$43#素人$30#有码$28#无码$27#自拍$23#制服$31#欧美$33#国产$33#主播$21#精品$44",
+"分类url":"https://www.baijy8.top/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+}
