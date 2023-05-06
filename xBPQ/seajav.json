@@ -1,12 +1,13 @@
 {
 "站名":"SeaJav",
 "主页url":"https://seajav.com",
+//发布 https://cs1080.com
 "直接播放":"1",
 //"数组":"class=\"thumbnail group\">&&</a>"
 "图片":"cover.jpg\" src=\"&&\"",
 "标题":"alt=\"&&\"",
 "链接":"href=\"&&\"",
-"简介":"player_aaaa&&</script>",
+"简介":"\"url\":\"http&&.m3u8",
 "搜索模式":"1",
 "搜索url":"/search/page/{pg}/wd/{wd}.html",
 "搜索图片":"cover.jpg\" src=\"&&\"",

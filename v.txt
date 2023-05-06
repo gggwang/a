@@ -4,20 +4,16 @@
   "name":"本地"
 },
 {
+  "url":"clan://localhost/TVBox/2.json",
+  "name":"本地全"
+},
+{
   "url":"https://notabug.org/wolfceo/a/raw/master/1.json",
   "name":"自用"
 },
 {
-  "url":"https://raw.iqiq.io/gaotianliuyun/gao/master/9918.json",
-  "name":"gao"
-},
-{
-  "url":"https://tv.5ye.cc/h/h.json",
-  "name":"2ha"
-},
-{
-  "url":"https://agit.ai/fenwe/TVBox/src/branch/master/adult.json",
-  "name":"fenwe"
+  "url":"clan://localhost/TVBox/t.json",
+  "name":"测试线路"
 }
 ]
 }
