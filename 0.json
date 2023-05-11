@@ -1,5 +1,5 @@
 {
-"spider":"clan://TVBox/JAR/panda.jar",
+"spider":"clan://TVBox/JAR/fan.txt",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/hsck.txt"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites":[
