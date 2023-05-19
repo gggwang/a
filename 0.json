@@ -13,6 +13,7 @@
 {"key":"91麻豆","name":"91麻豆-镜","type":1,"api":"https://c.muzi.gq/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"KOK","name":"KOK","type":1,"api":"https://api.vodkok1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"草榴","name":"草榴-镜","type":1,"api":"https://d.muzi.gq/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"seya","name":"seya","type":1,"api":"https://api.seyavod.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xBPQ_didi","name":"didi","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/xBPQ/didi.json"},
 {"key":"csp_xBPQ_麻豆","name":"麻豆","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVBox/xBPQ/m麻豆.json"},
 {"key":"csp_xBPQ_男人仓库","name":"男人仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/xBPQ/男人仓库.json"},
