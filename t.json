@@ -7,6 +7,8 @@
 {"key":"js豆瓣","name":"🅱豆瓣┃首页","type":3,"api":"clan://TVBox/JS/lib/drpy2.min.js","ext":"clan://TVBox/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key":"直播t","name":"直播t","type":3,"playerType":1,"api":"clan://TVBox/JS/js/直播转点播.js","ext":"水果$clan://TVBox/TV/sg.txt#测试$clan://TVBox/TV/t.txt&&&https://api.caonm.net/api/bhs/h.php"},
 {"key":"db02","name":"番号","type":4,"api":"clan://TVBox/json/num.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"csp_xBPQ_绿葡萄","name":"绿葡萄","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/l绿葡萄.json"},
+{"key":"csp_xBPQ_ll","name":"乱伦","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/ll.json"},
 {"key":"seya","name":"seya","type":1,"api":"https://api.seyavod.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"155","name":"155","type":1,"api":"https://155api.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"伊人","name":"伊人","type":1,"api":"https://api.yrzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
