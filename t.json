@@ -1,19 +1,23 @@
 {
 "spider":"./JAR/fan.txt",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/hsck.txt"]}]}],
-"wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
+"wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 "sites":[
 {"key":"js豆瓣","name":"🅱豆瓣┃首页","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key":"直播t","name":"直播t","type":3,"playerType":1,"api":"./JS/js/直播转点播.js","ext":"水果$./TV/sg.txt#测试$./TV/t.txt&&&https://api.caonm.net/api/bhs/h.php"},
+{"key":"直播t","name":"直播t","type":3,"playerType":1,"api":"./JS/js/直播转点播.js","ext":"水果$https://v.muzi.gq/sg.txt#测试$./TV/t.txt&&&https://api.caonm.net/api/bhs/h.php"},
 {"key":"db02","name":"番号","type":4,"api":"./json/num.json","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./json/tok.txt"},
-{"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./json/tok.txt$$$fanfan$$$qqq111"},
-{"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./json/tok.txt"},
-{"key":"七夜","name":"😾七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./json/tok.txt"},
-{"key":"TuGou","name":"😿土狗┃搜索","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/tok.txt"},
-{"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"./json/tok.txt"},
-{"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/tok.txt"},
+{"key":"T1","name":"T1","type":1,"api":"https://v.muzi.gq/api.php","searchable":1,"quickSearch":1},
+{"key":"T2","name":"T2","type":1,"api":"https://e.muzi.gq/vod/","searchable":1,"quickSearch":1},
+{"key":"甜蜜","name":"甜蜜","type":1,"api":"https://timizy10.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"青楼","name":"青楼","type":1,"api":"https://qlzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"csp_xBPQ_360","name":"360","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/360.json"},
+{"key":"csp_XBPQ_AV一","name":"AV一","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","ext":"./xBPQ/AV一.json"},
+{"key":"csp_XBPQ_91色","name":"91色","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","ext":"./xBPQ/91色.json"},
+{"key":"csp_XBPQ_新香蕉","name":"新香蕉","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","ext":"./xBPQ/新香蕉.json"},
+{"key":"csp_XBPQ_日日夜夜","name":"日日夜夜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/日日夜夜.json"},
+{"key":"csp_XBPQ_X先生","name":"X先生","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/X先生.json"},
+{"key":"csp_大炮色","name":"大炮色","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/大炮色.json"},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/tok.txt"}
 ],
 
